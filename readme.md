@@ -16,18 +16,25 @@
 
 1. To show all the databases use:
     <div align="center">
-    <h2>SHOW DATABASES;</h2>
+    <h3>SHOW DATABASES;</h3>
     </div>
-    <div align="center">
-    <h3># Do not forget the semicolon</h3>
-    </div>
-
+    
 2. To use a databases:
     <div align="center">
-    <h2>USE database_name;</h2>
+    <h3>USE database_name;</h3>
     </div>
 
 3. To use know which database we are in, use:
     <div align="center">
-    <h2>SELECT DATABASE;</h2>
+    <h3>SELECT DATABASE;</h3>
+    </div>
+
+4. To delete a database, use:
+    <div align="center">
+    <h3>DROP DATABASE;</h3>
+    </div>
+
+5. Adding a table to a dataframe, use:
+    <div align="center">
+    <h3>CREATE TABLE (name varchar(100), surname varchar(100));</h3>
     </div>
