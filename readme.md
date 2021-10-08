@@ -15,5 +15,9 @@
 ## Basic SQL queries 
 
 1. To show all the databases use:
-    SHOW DATABASES; 
-    # Do not forget the semicolon
+    <div align="center">
+    <h2>SHOW DATABASES;</h2>
+    </div>
+    <div align="center">
+    <h3># Do not forget the semicolon</h3>
+    </div>
