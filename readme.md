@@ -6,15 +6,13 @@
 ## Table of contents
 * [Important notes for SQL](#Important-notes-for-SQL)
 * [Basic SQL queries](#Basic-SQL-queries)
-* [If any setup is required](#setup)
 
 ## Important notes for SQL
+#### In SQL the data is stored in the form of tables. The type of data remains same in a column of a table. Like for example, all the column values are a float.
+#### Some data types are
+##### varchar: represented as varchar(max_character_length)
+##### int
+
 
 ## Basic SQL queries 
-
-### If any setup is required
-
-
-
-
 
