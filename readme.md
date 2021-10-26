@@ -42,7 +42,16 @@
 
 6. Adding a table to a dataframe, use:
     <div align="center">
-    <h3>CREATE TABLE (name varchar(100), surname varchar(100));</h3>
+    <h3>CREATE TABLE TABLE_name (name varchar(100), surname varchar(100));</h3>
     </div>
 
-7. 
+7. How to  get column names from a table? 
+    <div align="center">
+    <h3>DESCRIBE table_names;</h3>
+    </div>
+
+8. Inserting data into columns of a table.
+    <div align="center">
+    <h3>INSERT INTO table_names(column_name_1, column_name_2)</h3>
+    <h3>VALUES (Value_1, Value_2)</h3>
+    </div>
