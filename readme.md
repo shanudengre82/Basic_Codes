@@ -4,6 +4,7 @@
 ## Table of contents
 * [Important notes for SQL](#Important-notes-for-SQL)
 * [Basic SQL queries](#Basic-SQL-queries)
+* [Adavanced SQL queries](#Basic-SQL-queries)
 
 ## Important notes for SQL
 #### In SQL, the data is stored in the form of tables. The type of data remains same in a column of a table. Like for example, all the column values are a float Some data types are
@@ -24,9 +25,9 @@
     <h3>USE database_name;</h3>
     </div>
 
-3. To use know which database we are in, use:
+3. To know which database we are in, use:
     <div align="center">
-    <h3>SELECT DATABASE;</h3>
+    <h3>SELECT DATABASE() FROM DUAL;</h3>
     </div>
 
 4. To delete a database, use:
@@ -34,7 +35,14 @@
     <h3>DROP DATABASE;</h3>
     </div>
 
-5. Adding a table to a dataframe, use:
+5. To make a database 
+    <div align="center">
+    <h3>CREATE DATABASE_NAME;</h3>
+    </div>
+
+6. Adding a table to a dataframe, use:
     <div align="center">
     <h3>CREATE TABLE (name varchar(100), surname varchar(100));</h3>
     </div>
+
+6. 
