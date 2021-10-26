@@ -20,7 +20,7 @@
     <h3>SHOW DATABASES;</h3>
     </div>
     
-2. To use a databases:
+2. To select a databases, use:
     <div align="center">
     <h3>USE database_name;</h3>
     </div>
@@ -35,7 +35,7 @@
     <h3>DROP DATABASE;</h3>
     </div>
 
-5. To make a database 
+5. To create a database, use: 
     <div align="center">
     <h3>CREATE DATABASE_NAME;</h3>
     </div>
@@ -45,4 +45,4 @@
     <h3>CREATE TABLE (name varchar(100), surname varchar(100));</h3>
     </div>
 
-6. 
+7. 
