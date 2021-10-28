@@ -55,3 +55,9 @@
     <h3>INSERT INTO table_names(column_name_1, column_name_2)</h3>
     <h3>VALUES (Value_1, Value_2)</h3>
     </div>
+
+9. Selecting columns from a table.
+    <div align="center">
+    <h3>SELECT * FROM table_name</h3>
+    </div>
+
