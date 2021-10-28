@@ -1,2 +1,3 @@
 # Basic_Codes
-Basic codes for different programming languages
+
+This project is an effort to basic codes in different programming languages.
